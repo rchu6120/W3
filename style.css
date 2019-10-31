@@ -1,9 +1,8 @@
 body {
-    background-image: url("https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwjB593w0sflAhUPVN8KHcHfAJAQjRx6BAgBEAQ&url=https%3A%2F%2Fwallpaperaccess.com%2Fnew-york-city-desktop&psig=AOvVaw07l67Lgxvgl1sc1aLUmw9L&ust=1572650787148387");
+    background-image: url('https://cdn.vox-cdn.com/thumbor/Ygnn0cSyCEYD8xnnDKFMYN4BgaQ=/0x0:2000x1333/1820x1213/filters:focal(840x507:1160x827):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/63616039/171109_08_11_37_5DS_0545.0.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
-    background: white;  
     font-size: 30px;
     text-align: center;
     height: 100%;

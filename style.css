@@ -1,0 +1,47 @@
+body {
+    background-image: url("https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwjB593w0sflAhUPVN8KHcHfAJAQjRx6BAgBEAQ&url=https%3A%2F%2Fwallpaperaccess.com%2Fnew-york-city-desktop&psig=AOvVaw07l67Lgxvgl1sc1aLUmw9L&ust=1572650787148387");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background: white;  
+    font-size: 30px;
+    text-align: center;
+    height: 100%;
+    width: 100vw;
+    margin: 0 0 0 0 !important;
+}
+
+#navbar {
+    background:blue;
+}
+
+#navbar a {
+    text-decoration: none;
+}
+
+h1 { 
+    color: purple;
+}
+
+#test {
+    color: green;
+}
+
+#league {
+    width: 30vw;
+    height: 20vw;
+}
+
+.red_heading {
+    color: red;
+}
+
+#heading {
+    color: blue;
+    font-size: 3em;
+}
+
+#hungry {
+    font-size: 1em;
+}
+

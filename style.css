@@ -11,14 +11,14 @@ body {
 }
 
 #navbar {
-    background:blue;
+    background: blue;
 }
 
 #navbar a {
     text-decoration: none;
 }
 
-h1 { 
+h1 {
     color: purple;
 }
 
@@ -43,4 +43,3 @@ h1 {
 #hungry {
     font-size: 1em;
 }
-
